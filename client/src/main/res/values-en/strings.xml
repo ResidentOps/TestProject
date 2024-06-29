@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Client</string>
+
+    <string name="button_config">Config</string>
+    <string name="button_startStop">Start/Stop</string>
+    <string name="button_scanList">Scan List</string>
+
+    <string name="text_config">Config</string>
+    <string name="editText_ip">IP</string>
+    <string name="editText_port">Server port</string>
+    <string name="button_save">Save</string>
+
+    <string name="text_scanList">Scans list</string>
+    <string name="text_scan">Scan</string>
+    <string name="button_restore">Restore</string>
+
+    <string name="error_emptyFields">All fields must be completed.</string>
+
+</resources>

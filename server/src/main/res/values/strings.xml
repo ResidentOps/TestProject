@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">Сервер</string>
+
+    <string name="button_config">Config</string>
+    <string name="button_turnOn">Включить</string>
+    <string name="button_switchOff">Выключить</string>
+
+    <string name="text_portSelection">Выбор порта</string>
+
+</resources>

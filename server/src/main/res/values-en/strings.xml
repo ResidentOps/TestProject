@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Server</string>
+
+    <string name="button_config">Config</string>
+    <string name="button_turnOn">Turn On</string>
+    <string name="button_switchOff">Switch Off</string>
+
+    <string name="text_portSelection">Port selection</string>
+
+</resources>

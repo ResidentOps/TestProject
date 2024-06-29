@@ -1,0 +1,20 @@
+<resources>
+
+    <string name="app_name">Клиент</string>
+
+    <string name="button_config">Config</string>
+    <string name="button_startStop">Старт/Стоп</string>
+    <string name="button_scanList">Scan List</string>
+
+    <string name="text_config">Конфиг</string>
+    <string name="editText_ip">IP</string>
+    <string name="editText_port">Порт сервера</string>
+    <string name="button_save">Сохранить</string>
+
+    <string name="text_scanList">Список сканов</string>
+    <string name="text_scan">Скан</string>
+    <string name="button_restore">Восстановить</string>
+
+    <string name="error_emptyFields">Все поля должны быть заполнены.</string>
+
+</resources>
